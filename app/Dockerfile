@@ -1,5 +1,4 @@
 
-
 FROM strapi/base
 
 # Let WatchTower know to ignore this container for checking
